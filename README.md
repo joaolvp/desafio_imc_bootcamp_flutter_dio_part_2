@@ -4,12 +4,7 @@ Segunda parte do desafio DIO feito em Flutter para realizar cálculos de IMC.
 
 ## Funcionamento do programa
 
-<img src="https://github.com/joaolvp/desafio_imc_bootcamp_flutter_dio_part_2/assets/9539250/5999b2b4-ec1a-444c-b262-c88f8418d692" alt="Tela inicial(cálculo IMC) do app" style="float: left; margin-right: 100px; width: 250; height: 500; " />
-
-<img src="https://github.com/joaolvp/desafio_imc_bootcamp_flutter_dio_part_2/assets/9539250/78629f22-a0a3-4b74-9777-ebce5035e704" alt="Tela inicial(cálculo IMC) do app" style="float: left; margin-right: 10px; width: 250; height: 500; " />
-
-
-<div style="clear: both;"></div>
+<div align='center'>
 
 </br>
 Página de cálculo do aplicativo, onde é digitado o peso e a altura. Caso você pressione o botão 'calcular' e o formato de algum dos valores esteja incorreto, um Snackbar é acionado alertando o erro.
@@ -17,33 +12,42 @@ Página de cálculo do aplicativo, onde é digitado o peso e a altura. Caso voc�
 </br>
 </br>
 
-<img src="https://github.com/joaolvp/desafio_imc_bootcamp_flutter_dio_part_2/assets/9539250/48709b7a-2808-402f-8476-a511c3b0b711" alt="Tela inicial(cálculo IMC) do app" style="float: left; margin-right: 100px; width: 250; height: 500; " />
+<img src="https://github.com/joaolvp/desafio_imc_bootcamp_flutter_dio_part_2/assets/9539250/5999b2b4-ec1a-444c-b262-c88f8418d692" alt="Tela inicial(cálculo IMC) do app" style="display: inline-block; margin-right: 10px; width: 250px; height: 500px; " />
+  
+<img src="https://github.com/joaolvp/desafio_imc_bootcamp_flutter_dio_part_2/assets/9539250/78629f22-a0a3-4b74-9777-ebce5035e704" alt="Tela inicial(cálculo IMC) do app" style="display: inline-block; width: 250px; height: 500px; " />
 
-<img src="https://github.com/joaolvp/desafio_imc_bootcamp_flutter_dio_part_2/assets/9539250/db4f215e-795c-4c0f-9add-8c0a021486e5" alt="Tela inicial(cálculo IMC) do app" style="float: left; margin-right: 10px; width: 250; height: 500; " />
+</div>
+<hr class="solid">
 
-<div style="clear: both;"></div>
+<div align='center'>
 
 </br>
 Ao pressionar o botão 'calcular', é exibido o valor calculado e a condição do IMC.
 </br>
 </br>
 </br>
+  
+<img src="https://github.com/joaolvp/desafio_imc_bootcamp_flutter_dio_part_2/assets/9539250/48709b7a-2808-402f-8476-a511c3b0b711" alt="Tela inicial(cálculo IMC) do app" style="float: left; margin-right: 100px; width: 250px; height: 500px; " />
 
-<div align='center'>
+<img src="https://github.com/joaolvp/desafio_imc_bootcamp_flutter_dio_part_2/assets/9539250/db4f215e-795c-4c0f-9add-8c0a021486e5" alt="Tela inicial(cálculo IMC) do app" style="float: left; margin-right: 10px; width: 250px; height: 500px; " />
 
-<img src="https://github.com/joaolvp/desafio_imc_bootcamp_flutter_dio_part_2/assets/9539250/bc370a01-827a-4828-8ad1-c6dea35ccb52" alt="Tela inicial(cálculo IMC) do app" style=" margin-right: 10px; width: 250; height: 500; " />
-
-</br>
-Ao pressionar no botão 'Listar' do BottomNavigationBar, vamos para uma segunda página com uma lista de todos os IMC calculados (que foram armazenados com o SharedPreferences), onde todos os IMC saudáveis são exibidos em verde, enquanto os demais em vermelho.
 
 </div>
 
+<hr class="solid">
 
-<div style="clear: both;"></div>
+<div align='center'>
+
+</br>
+Ao pressionar no botão 'Listar' do BottomNavigationBar, vamos para uma segunda página com uma lista de todos os IMC calculados (que foram armazenados com o SharedPreferences), onde todos os IMC saudáveis são exibidos em verde, enquanto os demais em vermelho.
+</br>
+</br>
+</br>
+
+<img src="https://github.com/joaolvp/desafio_imc_bootcamp_flutter_dio_part_2/assets/9539250/bc370a01-827a-4828-8ad1-c6dea35ccb52" alt="Tela inicial(cálculo IMC) do app" style=" margin-right: 10px; width: 250px; height: 500px; " />
 
 
-
-
+</div>
 
 
 ## 🔗 Contatos
